@@ -2,6 +2,7 @@ require("src/class")
 require("src/const")
 require("src/color")
 require("src/game")
+require("src/util")
 
 local g = love.graphics
 

@@ -1,7 +1,7 @@
 local m = class()
 
 function m:on_load()
-    self:load_scene("main_menu")
+    self:load_scene("main_scene")
 end
 
 function m:load_scene(name)
